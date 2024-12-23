@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Untitled_Scan_19_45_04" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Untitled_Scan_19_45_04s_assembly" assemblyId="dd1e6145e9f9455793b192950b24f773">
+<Part name="Untitled_Scan_19_45_04" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.032134 0.190246 1.14327" rotation="AD: 0.999887 0.0425824 -0.379511 191.968" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.228669 0.243019 1.08505" rotation="AD: -0.989425 -0.156546 2.4717 177.308" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0517084 0.212696 0.751741" rotation="AD: 0.962072 0.302971 2.10706 173.222" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.208212 0.28551 0.959093" rotation="AD: 1 0.000175464 0.455382 179.96" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.21989 0.257378 1.17129" rotation="AD: 0.999994 -0.0246472 0.149634 198.499" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.151849 0.235201 1.27163" rotation="AD: -0.991462 -0.165465 1.29702 171.185" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
